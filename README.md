@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tunercoder
-- 👀 I’m interested in web apps/API's built in Python,Django,DRF
-- 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate on web projects, Open Sources.
+- 👋 Hi, I’m @tunercode(Ashish Nautiyal)
+- 👀 I’m work on Data science/Machine leanring/ web apps/API's built in Python,Django,DRF
+- 🌱 I’m currently learning Deep learning 
+- 💞️ I’m looking to collaborate on Data science projects specially ML problems,web projects, Open Sources.
 - 📫 How to reach me : Drop me a mail : mailashishnautiyal@gmail.com
 
 <!---
